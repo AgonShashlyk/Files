@@ -164,7 +164,7 @@
             ]
          },
          "properties":{
-            "description":"1500\n",
+            "description":"1300\n",
             "fill":"#82cdff",
             "fill-opacity":0.6,
             "stroke":"#82cdff",
@@ -455,7 +455,7 @@
             ]
          },
          "properties":{
-            "description":"1500",
+            "description":"1300",
             "fill":"#82cdff",
             "fill-opacity":0.6,
             "stroke":"#82cdff",
@@ -1654,7 +1654,7 @@
             ]
          },
          "properties":{
-            "description":"2000",
+            "description":"1500",
             "fill":"#ff931e",
             "fill-opacity":0.6,
             "stroke":"#ff931e",
@@ -1825,7 +1825,7 @@
             ]
          },
          "properties":{
-            "description":"2000",
+            "description":"1500",
             "fill":"#0e4779",
             "fill-opacity":0.6,
             "stroke":"#0e4779",
@@ -2132,7 +2132,7 @@
             ]
          },
          "properties":{
-            "description":"3000",
+            "description":"2500",
             "fill":"#ffd21e",
             "fill-opacity":0.6,
             "stroke":"#ffd21e",
@@ -2503,7 +2503,7 @@
             ]
          },
          "properties":{
-            "description":"3000",
+            "description":"2500",
             "fill":"#f371d1",
             "fill-opacity":0.6,
             "stroke":"#f371d1",
@@ -2970,7 +2970,7 @@
             ]
          },
          "properties":{
-            "description":"4000",
+            "description":"3000",
             "fill":"#97a100",
             "fill-opacity":0.6,
             "stroke":"#97a100",
@@ -3461,7 +3461,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"2500",
             "fill":"#e6761b",
             "fill-opacity":0.6,
             "stroke":"#e6761b",
@@ -3744,7 +3744,7 @@
             ]
          },
          "properties":{
-            "description":"4000",
+            "description":"3000",
             "fill":"#b3b3b3",
             "fill-opacity":0.6,
             "stroke":"#b3b3b3",
@@ -3967,7 +3967,7 @@
             ]
          },
          "properties":{
-            "description":"4500",
+            "description":"3500",
             "fill":"#1e98ff",
             "fill-opacity":0.6,
             "stroke":"#1e98ff",
@@ -4826,7 +4826,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"2500",
             "fill":"#1bad03",
             "fill-opacity":0.6,
             "stroke":"#1bad03",
@@ -5241,7 +5241,7 @@
             ]
          },
          "properties":{
-            "description":"2500",
+            "description":"2000",
             "fill":"#595959",
             "fill-opacity":0.6,
             "stroke":"#595959",
@@ -5384,7 +5384,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"3000",
             "fill":"#97a100",
             "fill-opacity":0.6,
             "stroke":"#97a100",
@@ -5511,7 +5511,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"3000",
             "fill":"#b3b3b3",
             "fill-opacity":0.6,
             "stroke":"#b3b3b3",
@@ -5722,7 +5722,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"3000",
             "fill":"#793d0e",
             "fill-opacity":0.6,
             "stroke":"#793d0e",
@@ -6173,7 +6173,7 @@
             ]
          },
          "properties":{
-            "description":"4500",
+            "description":"3500",
             "fill":"#1bad03",
             "fill-opacity":0.6,
             "stroke":"#1bad03",
@@ -6352,7 +6352,7 @@
             ]
          },
          "properties":{
-            "description":"3000",
+            "description":"2000",
             "fill":"#b51eff",
             "fill-opacity":0.6,
             "stroke":"#b51eff",
@@ -6591,7 +6591,7 @@
             ]
          },
          "properties":{
-            "description":"3000",
+            "description":"2000",
             "fill":"#f371d1",
             "fill-opacity":0.6,
             "stroke":"#f371d1",
@@ -6914,7 +6914,7 @@
             ]
          },
          "properties":{
-            "description":"4000",
+            "description":"3000",
             "fill":"#595959",
             "fill-opacity":0.6,
             "stroke":"#595959",
@@ -7065,7 +7065,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"2500",
             "fill":"#ffd21e",
             "fill-opacity":0.6,
             "stroke":"#ffd21e",
@@ -7348,7 +7348,7 @@
             ]
          },
          "properties":{
-            "description":"4000",
+            "description":"3000",
             "fill":"#82cdff",
             "fill-opacity":0.6,
             "stroke":"#82cdff",
@@ -7611,7 +7611,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"2500",
             "fill":"#ed4543",
             "fill-opacity":0.6,
             "stroke":"#ed4543",
@@ -8338,7 +8338,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"2500",
             "fill":"#e6761b",
             "fill-opacity":0.6,
             "stroke":"#e6761b",
@@ -9081,7 +9081,7 @@
             ]
          },
          "properties":{
-            "description":"4500",
+            "description":"3500",
             "fill":"#ed4543",
             "fill-opacity":0.6,
             "stroke":"#ed4543",
@@ -9744,7 +9744,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"2500",
             "fill":"#1bad03",
             "fill-opacity":0.6,
             "stroke":"#1bad03",
@@ -10779,7 +10779,7 @@
             ]
          },
          "properties":{
-            "description":"4000",
+            "description":"3000",
             "fill":"#ffd21e",
             "fill-opacity":0.6,
             "stroke":"#ffd21e",
@@ -11034,7 +11034,7 @@
             ]
          },
          "properties":{
-            "description":"3500",
+            "description":"2500",
             "fill":"#1e98ff",
             "fill-opacity":0.6,
             "stroke":"#1e98ff",
@@ -11821,7 +11821,7 @@
             ]
          },
          "properties":{
-            "description":"4500",
+            "description":"3500",
             "fill":"#ed4543",
             "fill-opacity":0.6,
             "stroke":"#ed4543",
@@ -12208,7 +12208,7 @@
             ]
          },
          "properties":{
-            "description":"3000",
+            "description":"2000",
             "fill":"#97a100",
             "fill-opacity":0.6,
             "stroke":"#97a100",
@@ -13007,7 +13007,7 @@
             ]
          },
          "properties":{
-            "description":"4000",
+            "description":"3000",
             "fill":"#b3b3b3",
             "fill-opacity":0.6,
             "stroke":"#b3b3b3",
@@ -13282,7 +13282,7 @@
             ]
          },
          "properties":{
-            "description":"4500",
+            "description":"3500",
             "fill":"#0e4779",
             "fill-opacity":0.6,
             "stroke":"#0e4779",
@@ -13693,7 +13693,7 @@
             ]
          },
          "properties":{
-            "description":"4500",
+            "description":"3500",
             "fill":"#ff931e",
             "fill-opacity":0.6,
             "stroke":"#ff931e",
@@ -14400,7 +14400,7 @@
             ]
          },
          "properties":{
-            "description":"4500",
+            "description":"3500",
             "fill":"#793d0e",
             "fill-opacity":0.6,
             "stroke":"#793d0e",
@@ -14647,7 +14647,7 @@
             ]
          },
          "properties":{
-            "description":"4000",
+            "description":"3000",
             "fill":"#ed4543",
             "fill-opacity":0.6,
             "stroke":"#ed4543",
@@ -16800,7 +16800,7 @@
             ]
          },
          "properties":{
-            "description":"5000",
+            "description":"4000",
             "fill":"#b51eff",
             "fill-opacity":0.6,
             "stroke":"#b51eff",
@@ -16987,7 +16987,7 @@
             ]
          },
          "properties":{
-            "description":"4500",
+            "description":"3500",
             "fill":"#0e4779",
             "fill-opacity":0.6,
             "stroke":"#0e4779",
